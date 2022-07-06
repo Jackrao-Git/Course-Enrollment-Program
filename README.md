@@ -8,3 +8,5 @@ Student can enroll in classes, edit their personal class schedule.
 All the data could be saved after changes due to serialization. 
 
 Data can be exported and used for in-depth data analysis
+
+The main is School.java. 
