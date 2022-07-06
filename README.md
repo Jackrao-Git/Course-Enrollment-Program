@@ -2,6 +2,8 @@
 
 This is the course enrollment program written in Java.
 
+The program is written using the idea of object-oriented programming.
+
 Administrator can view, edit, and save student information and course information.
 Student can enroll in classes, edit their personal class schedule. 
 
